@@ -1,5 +1,6 @@
 import { createWebHistory, createRouter } from "vue-router";
 import ContactBook from "../view/ContactBook.vue";
+
 const routes = [
   {
     path: "/",
